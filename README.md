@@ -6,4 +6,4 @@
 3) run main.py
 
 # result
-likes.txt file with id users, who liked post example {'id': '2173358416009773'}
+likes.txt file with id users, who liked post. Example {'id': '2173358416009773'}
