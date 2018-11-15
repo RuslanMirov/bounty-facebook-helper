@@ -2,7 +2,7 @@
 
 # Install
 1) pip install facebook-sdk
-2) set token and id of group in congig
+2) set token and id of group in config
 3) run main.py
 
 # result
